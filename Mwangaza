@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mwangaza Isaac - Marketing Strategist, Branding Expert">
+    <title>Mwangaza Isaac - Marketing Strategist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #008080; /* Turquoise blue */
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        section {
+            max-width: 1100px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            margin-bottom: 20px;
+            color: #008080;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        h2 {
+            font-size: 2em;
+            color: #333;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #555;
+        }
+        .portfolio, .services, .contact {
+            margin-top: 50px;
+        }
+        .cta {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 40px;
+        }
+        .cta a {
+            background-color: #008080;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+        }
+        .cta a:hover {
+            background-color: #005f5f;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+            margin-top: 30px;
+        }
+        .gold {
+            color: #FFD700; /* Gold color */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Mwangaza Isaac</h1>
+        <p class="gold">Marketing Strategist & Branding Expert</p>
+    </header>
+
+    <section class="about-me">
+        <h2>About Me</h2>
+        <p>
+            I am Mwangaza Isaac, passionate about Marketing, Branding, and helping brands deliver their messaging concisely and helpfully. 
+            This is what I live for. When I am not marketing my client's services and products, I am marketing Manchester United as the best 
+            football team in the world. My deepest motivation is that everything, whether we eat or drink, should be done for the Glory of 
+            God through Christ Jesus.
+        </p>
+    </section>
+
+    <section class="portfolio">
+        <h2>Portfolio</h2>
+        <p>
+            Currently, I am a Marketing Strategist at Simatech Integrated Solutions, where I have been able to drive significant change in 
+            the messaging of our products and services and increase their visibility. Notably, our social media presence has soared.
+        </p>
+    </section>
+
+    <section class="services">
+        <h2>Services</h2>
+        <ul>
+            <li>Go-to-Market (GTM) Strategies</li>
+            <li>Branding Services</li>
+            <li>Social Media Content Strategy</li>
+            <li>Product Message Crafting</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:isaacmwangaza12@gmail.com">isaacmwangaza12@gmail.com</a></p>
+        <p>Phone: +254 758 949131</p>
+
+        <div class="cta">
+            <a href="mailto:isaacmwangaza12@gmail.com">Contact Me</a>
+            <a href="tel:+254758949131">Schedule a Meeting</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mwangaza Isaac. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
